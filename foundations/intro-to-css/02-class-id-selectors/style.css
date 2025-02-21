@@ -1,0 +1,19 @@
+.number {
+    background-color: lightcoral;
+    font-size: 18px;
+}
+
+.number.cool {
+    font-size: 25px;
+}
+
+#id1 {
+    color: blue;
+    font-size: 32px;
+}
+
+#id2 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 22px;
+}
